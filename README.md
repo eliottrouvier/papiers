@@ -1,6 +1,6 @@
 # Papiers
 
-> Lectures, prises de notes et reproductions de papiers de recherche en Intelligence Artificielle.
+> Lectures, prises de notes et reproductions de papiers de recherche 
 
 ---
 
