@@ -1,0 +1,20 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Model weights & datasets (garder le repo léger)
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.onnx
+data/
+wandb/
